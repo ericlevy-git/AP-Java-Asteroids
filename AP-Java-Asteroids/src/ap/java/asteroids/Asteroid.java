@@ -8,6 +8,7 @@ package ap.java.asteroids;
 /**
  *
  * @author elevy
+ * This is going to be a great Class
  */
 public class Asteroid {
     private int size;
